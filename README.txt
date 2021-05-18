@@ -1,4 +1,4 @@
-Hello, world! My name is Theo Nejm, and my web nickname is Theoow, is a big plasure to meet you!
+Hello, world! My name is Theo Nejm, I'm 18 and I was born in Brazil! You can call me Theoow if you want, is a big pleasure to meet you!
 
 I'm student of Computer Science on the Federal Institute of Science and Technology of Ceara and I'm learning technologies to be a fullstack developer.
 
