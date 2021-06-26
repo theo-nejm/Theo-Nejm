@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hello, world! 
 
 ## My name is Theo Nejm, I'm a web developer from Brazil! Is a big pleasure to meet you!
@@ -28,3 +30,5 @@
 <a href="https://linkedin.com/in/theo-nejm"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ## Stay safe!
+  
+  </div>
