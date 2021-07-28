@@ -24,7 +24,7 @@
   
   
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theo-Nejm1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theo-Nejm&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 <br><hr>
 ## Contact-me! 
