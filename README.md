@@ -22,6 +22,10 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 </div>
   
+  
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theo-Nejm1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
 <br><hr>
 ## Contact-me! 
 <a href="https://instagram.com/theo_nejm" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
