@@ -4,10 +4,6 @@
 
 ## My name is Theo Nejm, I'm a web developer from Brazil! Is a big pleasure to meet you!
 
-## I'm student of Computer Science at 'Instituto Federal de Educação, Ciência e Tecnologia do Ceará' and I'm learning technologies to be a fullstack developer.
-
-
-
 <div align="center" style="display: flex">
   
   `I'm intrested on JavaScript and its frameworks, node and some other technologies of web development.`
